@@ -1,0 +1,9 @@
+playwright==1.48.0
+aiohttp
+beautifulsoup4
+lxml
+hdate
+python-dateutil
+fastapi
+uvicorn
+pydantic
